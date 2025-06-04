@@ -3,12 +3,18 @@
 // Operators
 class Program
 {
+
+    //do... while loop
     static void Main(string[] args)
     {
-        double x = 5;
 
-        x /= 2;
+        int i = 0;
 
-        Console.WriteLine($"x = {x}");
+        do
+        {
+            Console.WriteLine(i);
+            i++;
+            
+        } while (i < 5);
     }
 }
