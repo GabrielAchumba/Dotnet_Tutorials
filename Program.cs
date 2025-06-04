@@ -7,10 +7,6 @@ class Program
     static void Main(string[] args)
     {
 
-        Car myCar = new Car(); //an object
-
-        myCar.Color = "Red";
-
-        myCar.Drive();
+        Car myCar = new Car("Red"); //an object
     }
 }
