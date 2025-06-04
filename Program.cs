@@ -4,17 +4,13 @@
 class Program
 {
 
-    //do... while loop
     static void Main(string[] args)
     {
 
-        int i = 0;
+        Car myCar = new Car(); //an object
 
-        do
-        {
-            Console.WriteLine(i);
-            i++;
-            
-        } while (i < 5);
+        myCar.Color = "Red";
+
+        myCar.Drive();
     }
 }

@@ -1,12 +1,7 @@
 "# Dotnet_Tutorials" 
 
-"# Control Structures"
+"# Classes & Objects"
 
-"# 1. Conditional Statements"
-    "# (a) if, else if, else"
-    "# (b) switch"
+"# 1. Class"
 
-"# 2. Looping Structure"
-    "# (a) for loop"
-    "# (b) while loop"
-    "# (c) do...while loop"
+"# 2. Objects"
