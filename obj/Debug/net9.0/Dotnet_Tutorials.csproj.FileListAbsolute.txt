@@ -12,3 +12,4 @@ C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_
 C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.pdb
 C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.genruntimeconfig.cache
 C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\ref\Dotnet_Tutorials.dll
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.sourcelink.json
