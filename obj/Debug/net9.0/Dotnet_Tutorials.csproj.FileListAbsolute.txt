@@ -1,0 +1,14 @@
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\bin\Debug\net9.0\Dotnet_Tutorials.exe
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\bin\Debug\net9.0\Dotnet_Tutorials.deps.json
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\bin\Debug\net9.0\Dotnet_Tutorials.runtimeconfig.json
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\bin\Debug\net9.0\Dotnet_Tutorials.dll
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\bin\Debug\net9.0\Dotnet_Tutorials.pdb
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.AssemblyInfoInputs.cache
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.AssemblyInfo.cs
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.dll
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\refint\Dotnet_Tutorials.dll
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.pdb
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\Dotnet_Tutorials.genruntimeconfig.cache
+C:\Users\HP_ELITEBOOK840_G4\Documents\Tutorials\DotNet\Junior Developers\Dotnet_Tutorials\Dotnet_Tutorials\obj\Debug\net9.0\ref\Dotnet_Tutorials.dll
