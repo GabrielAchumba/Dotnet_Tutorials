@@ -6,14 +6,16 @@ class Program
 
     static void Main(string[] args)
     {
+        // create bank account;
 
-        int a = 2;
-        int b = 5;
+        var account = new SavingsAccount("1234567890", "Gabriel Achumba");
 
-        Mathematics mathematics = new Mathematics();
+        account.Deposit(100);
+        Console.WriteLine($"Owner: {account.OwnerName}");
+        Console.WriteLine($"Balance: {account.GetBalance():C}");
 
-        var c = mathematics.Add(a, b);
-
-        Console.WriteLine($"c = {c}");
+        account.AddInterest(5);
+        Console.WriteLine($"Balance after interest: {account.GetBalance():C}");
+        
     }
 }
